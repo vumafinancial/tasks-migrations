@@ -1,0 +1,10 @@
+{
+        "name": "vumafinancial/tasks-migrations",
+        "type": "kohana-module",
+        "description": "Minion Migrations",
+        "require": {
+                "composer/installers": "~1.0",
+                "kohana/core": ">=3.2",
+                "php": ">=5.3.3"
+        }
+}
